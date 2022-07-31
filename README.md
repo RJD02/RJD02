@@ -130,7 +130,7 @@ Hi, I'm Raviraj Dulange
 
 <a href="https://drive.google.com/file/d/1V7RWjY2G-_5VhuoczRh1QvVJgJBTtBoT/view?usp=sharing"><img src="https://img.shields.io/badge/resume-0077B5.svg?style=for-the-badge&logo=resume&logoColor=ffffff"/></a>
 
-<a href="https://www.linkedin.com/in/alif90/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+<a href="https://www.linkedin.com/in/raviraj-dulange-894596229/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
 
 <a href="mailto:dulangeraviraj@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
 
