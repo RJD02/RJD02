@@ -27,7 +27,7 @@ Hi, I'm Raviraj Dulange
 
 <h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RJD02)](https://github.com/RJD02/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RJD02 )![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RJD02 )![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RJD02 )![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RJD02 )![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RJD02)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RJD02&theme=tokyonight)](https://github.com/RJD02/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RJD02&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RJD02 )![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RJD02&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RJD02 )![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RJD02&theme=tokyonight)
 
 <h2><img src = "./200w_s.gif" width ="30"> My Skills</f2>
 
