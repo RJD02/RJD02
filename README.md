@@ -23,6 +23,10 @@ Hi, I'm Raviraj Dulange
 🌟 Main languages: TypeScript, C++, Python.
 ```
 
+<!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/dulangeraviraj/count.svg?align=center)
+
 <hr>
 
 <h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
