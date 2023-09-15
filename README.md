@@ -1,3 +1,4 @@
+[![MasterHead](./ifykyk.PNG)](https://github.com/RJD02/nvim-config)
 <h1 align="center">Hi 👋, I'm Raviraj Dulange</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
