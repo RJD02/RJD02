@@ -1,143 +1,27 @@
+<h1 align="center">Hi 👋, I'm Raviraj Dulange</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
-<h1 align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjd02&label=Profile%20views&color=0e75b6&style=flat" alt="rjd02" /> </p>
 
-Hi, I'm Raviraj Dulange
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rjd02" alt="rjd02" /></a> </p>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
+- 🔭 I’m currently working on [Recreating google docs](https://github.com/RJD02/google-docs-clone)
 
-<br/>
+- 🌱 I’m currently learning **Golang, Rust, System Design**
 
+- 💬 Ask me about **MERN, Golang, MySQL**
+
+- 📫 How to reach me **dulangeraviraj@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Competitive+programmer;Freelancer&width=380&height=45"></a>
-
+<a href="https://linkedin.com/in/raviraj dulange" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raviraj dulange" height="30" width="40" /></a>
 </p>
 
-```
-💻 I am a self taught Full Stack Developer
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-📝 I have a strong interest in connecting hardware and software.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjd02&show_icons=true&locale=en&layout=compact" alt="rjd02" /></p>
 
-🌱 Learning about IoT, UI/UX and Web3
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjd02&show_icons=true&locale=en" alt="rjd02" /></p>
 
-🌟 Main languages: TypeScript, C++, Python.
-```
-
-<!--  PROFILES VIEWS -->
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/dulangeraviraj/count.svg?align=center)
-
-<hr>
-
-<h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RJD02&theme=monokai)](https://github.com/RJD02/github-profile-trophy&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RJD02&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RJD02&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RJD02&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RJD02&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RJD02&theme=monokai)
-
-<h2><img src = "./200w_s.gif" width ="30"> My Skills</f2>
-
-##### 💪 Programming Languages
-
-<p>
-
-<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-2c292d.svg?style=for-the-badge&logo=html5&logoColor=ffffff"></a>
-
-<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-2c292d.svg?style=for-the-badge&logo=css3&logoColor=ffffff"></a>
-
-<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2c292d.svg?style=for-the-badge&logo=javascript&logoColor=ffffff"></a>
-
-<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2c292d.svg?style=for-the-badge&logo=typescript&logoColor=ffffff"></a>
-
-<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-2c292d.svg?style=for-the-badge&logo=node.js&logoColor=ffffff"></a>
-
-<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%python"><img alt="Python" src="https://img.shields.io/badge/python-2c292d.svg?style=for-the-badge&logo=python&logoColor=ffffff"></a>
-
-<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac++"><img alt="C++" src="https://img.shields.io/badge/C++-2c292d.svg?style=for-the-badge&logo=cplusplus&logoColor=ffffff"></a>
-
-<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-2c292d.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=ffffff"></a>
-
-</p>
-
-
-##### 💪 Frameworks and Libraries
-
-<p>
-<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aflask"><img alt="SQL" src="https://img.shields.io/badge/flask-2c292d.svg?style=for-the-badge&logo=flask&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-2c292d?style=for-the-badge&logo=django&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/express-2c292d?style=for-the-badge&logo=express&logoColor=ffffff"></a>
-
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React-2c292d?style=for-the-badge&logo=react&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Vue" src="https://img.shields.io/badge/vue-2c292d?style=for-the-badge&logo=vue.js&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-2c292d?style=for-the-badge&logo=Redux&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Vuex" src="https://img.shields.io/badge/Vuex-2c292d?style=for-the-badge&logo=Vuex&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Nuxtjs" src="https://img.shields.io/badge/Nuxt js-2c292d?style=for-the-badge&logo=Nuxt.js&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Next" src="https://img.shields.io/badge/Next_js-2c292d?style=for-the-badge&logo=Next.js&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Nest.js" src="https://img.shields.io/badge/Nest_js-2c292d?style=for-the-badge&logo=nestjs&logoColor=ffffff"></a>
-
-<a href="#"><img alt="MUI" src="https://img.shields.io/badge/Material_UI-2c292d?style=for-the-badge&logo=MUI&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2c292d?style=for-the-badge&logo=bootstrap&logoColor=ffffff"></a>
-
-
-
-</p>
-
-##### 💪 Databases and Cloud Hosting
-
-<p>
-<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-2c292d.svg?style=for-the-badge&logo=MongoDB&logoColor=ffffff"></a>
-
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-2c292d.svg?style=for-the-badge&logo=MYSQL&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Postgre SQL" src="https://img.shields.io/badge/postgre sql-2c292d.svg?style=for-the-badge&logo=postgreSQL&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/firebase-2c292d.svg?style=for-the-badge&logo=firebase&logoColor=ffffff"></a>
-
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-2c292d.svg?style=for-the-badge&logo=github&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-2c292d.svg?style=for-the-badge&logo=heroku&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-2c292d.svg?style=for-the-badge&logo=vercel&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Netlify" src="https://img.shields.io/badge/netlify-2c292d.svg?style=for-the-badge&logo=netlify&logoColor=ffffff"></a>
-
-
-</p>
-
-##### 💪 Software and Tools
-
-<p>
-
-
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-2c292d.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-2c292d?style=for-the-badge&logo=google-chrome&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-2c292d.svg?style=for-the-badge&logo=git&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-2c292d?style=for-the-badge&logo=postman&logoColor=ffffff"></a>
-
-</p>
-
-<br>
-
-<h2> <img src='./handshake.gif' width="80"> Connect with me </h2>
-
-<p>
-
-<a href="https://drive.google.com/file/d/1V7RWjY2G-_5VhuoczRh1QvVJgJBTtBoT/view?usp=sharing"><img src="https://img.shields.io/badge/resume-0077B5.svg?style=for-the-badge&logo=resume&logoColor=ffffff"/></a>
-
-<a href="https://www.linkedin.com/in/raviraj-dulange-894596229/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-
-<a href="mailto:dulangeraviraj@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
-
-<a href="https://api.whatsapp.com/send?phone=919595743489" target="_blank"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a>
-
-</p>
